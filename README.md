@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oreoluwa-IVT
 - 👀 Interested in Embedded Systems Design, Mobile Application design
--  🌱 Working with Java and XML.
+-  🌱 Working Python and Arduino C and C#
 -  Anime- Naruto Shippuden
 - Ready to Work
 <!---
