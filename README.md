@@ -4,7 +4,6 @@
 
 🧑🏼‍💻 Budding Embedded Systems Designer
 🌉 Residing in Lagos , Nigeria    
-🏎  Code in C , C++ , C# and Python  
+🏎  Code in C , C++ , and Python  
 💡 Favorite topics include Circuit Design ,UI Design and IoT
-💡 Software Platform: Altium Designer, Visual Studio Code, Postman, Fritzing.
 
