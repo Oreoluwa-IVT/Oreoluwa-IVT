@@ -3,8 +3,6 @@
   
 
 <h3 align="left">You can find me</h3>
-<a href="https://twitter.com/oreol23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Oreoluwa" height="30" width="40" /></a>
-
 <a href="https://www.linkedin.com/in/oreoluwa-oluwafemi-769002192/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oreoluwa-oluwafemi-769002192/" height="30" width="40" /></a>
 
